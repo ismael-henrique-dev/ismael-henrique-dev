@@ -1,5 +1,5 @@
 ## Um Pouco Sobre Mim:
-
+Sou dev...
 ## Minhas Redes Sociais:
 
 <div style="display: inline_block">
