@@ -5,7 +5,7 @@ Sou dev...
 <div style="display: inline_block">
    <br>
    <a href="https://www.instagram.com/ismael.henriqu?igsh=MXNqd3VoMDhiOWVhaA=="><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-   <a href=""><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+   <a href="https://twitter.com/Ismael_hen_dev"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
    <a href="https://discord.com/users/1213443214514851844"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"" /></a>
    <a href=""><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
    <a href="mailto:ismaelhenrique296@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" /></a>
