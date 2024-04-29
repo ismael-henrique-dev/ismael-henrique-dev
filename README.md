@@ -1,5 +1,6 @@
 ## Um Pouco Sobre Mim:
-Sou dev...
+Sou estudante, busco sempre está aprender algo novo, adoro desafios...
+
 ## Minhas Redes Sociais:
 
 <div gap:"5px">
