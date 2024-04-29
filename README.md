@@ -3,19 +3,17 @@ Sou dev...
 ## Minhas Redes Sociais:
 
 <div gap:"5px">
-   <a href="https://www.instagram.com/ismael.henriqu?igsh=MXNqd3VoMDhiOWVhaA=="><img src="https://skillicons.dev/icons?i=instagram" /></a>
-   <a href="https://twitter.com/Ismael_hen_dev"><img src="https://skillicons.dev/icons?i=twitter" /></a>
-   <a href="https://discord.com/users/1213443214514851844"><img src="https://skillicons.dev/icons?i=discord" /></a>
-   <a href="#"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-   <a href="mailto:ismael.henrique.dev@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+   <a href="https://www.instagram.com/ismael.henriqu?igsh=MXNqd3VoMDhiOWVhaA=="><img src="https://img.shields.io/badge/LinkedIn-%23333?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+   <a href="https://twitter.com/Ismael_hen_dev"><img src="https://img.shields.io/badge/LinkedIn-%23333?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+   <a href="https://discord.com/users/1213443214514851844"><img src="https://img.shields.io/badge/LinkedIn-%23333?style=for-the-badge&logo=discord&logoColor=white" /></a>
+   <a href="#"><img src="https://img.shields.io/badge/LinkedIn-%23333?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+   <a href="mailto:ismael.henrique.dev@gmail.com"><img src="https://img.shields.io/badge/LinkedIn-%23333?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </div>
 
 ## Tecnologias que Trabalho:
 
 <p align="start">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,javascript,ts,git,react,linux,figma" />
-  </a>
+    <img width="400" src="https://skillicons.dev/icons?i=html,css,tailwind,javascript,ts,git,react,linux,figma&theme=dark" />
 </p>
 
 ## Meu Progresso:
