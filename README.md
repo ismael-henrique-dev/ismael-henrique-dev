@@ -1,7 +1,8 @@
-## Um Pouco Sobre Mim:
-Sou estudante, busco sempre está aprender algo novo, adoro desafios...
+## 🧑‍💻 Um Pouco Sobre Mim:
 
-## Minhas Redes Sociais:
+Sou estudante, busco sempre está aprendendo algo novo, adoro desafios...
+
+## 🌐 Minhas Redes Sociais:
 
 <div gap:"5px">
    <a href="https://www.instagram.com/ismael.henriqu?igsh=MXNqd3VoMDhiOWVhaA=="><img src="https://img.shields.io/badge/Instagram-%23333?style=for-the-badge&logo=instagram&logoColor=white" /></a>
@@ -11,13 +12,13 @@ Sou estudante, busco sempre está aprender algo novo, adoro desafios...
    <a href="mailto:ismael.henrique.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </div>
 
-## Tecnologias que Trabalho:
+## 🛠️ Tecnologias que Trabalho:
 
 <p align="start">
     <img width="400" src="https://skillicons.dev/icons?i=html,css,tailwind,javascript,ts,git,react,linux,figma&theme=dark" />
 </p>
 
-## Meu Progresso:
+## 📈 Meu Progresso:
 
 <br>
   
@@ -37,6 +38,6 @@ Sou estudante, busco sempre está aprender algo novo, adoro desafios...
 
 <br>
 
-  ##
+
  
 
