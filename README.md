@@ -15,7 +15,7 @@ Sou estudante, busco sempre está aprendendo algo novo, adoro desafios...
 ## 🛠️ Tecnologias que Trabalho:
 
 <p align="start">
-    <img width="400" src="https://skillicons.dev/icons?i=html,css,tailwind,javascript,ts,git,react,linux,figma&theme=dark" />
+    <img width="400" src="https://skillicons.dev/icons?i=html,css,tailwind,javascript,ts,git,react,figma&theme=dark" />
 </p>
 
 ## 📈 Meu Progresso:
