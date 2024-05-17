@@ -16,6 +16,7 @@ Sou estudante, busco sempre está aprendendo algo novo, adoro desafios...
 
 <p align="start">
     <img width="400" src="https://skillicons.dev/icons?i=html,css,tailwind,javascript,ts,git,react,nodejs,figma&theme=dark" />
+    <img src="icons/HTML5.svg" />
 </p>
 
 ## 📈 Meu Progresso:
