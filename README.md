@@ -14,7 +14,7 @@ Sou estudante, busco sempre está aprendendo algo novo, adoro desafios...
 
 ## 🛠️ Tecnologias que Trabalho:
 
-<div>
+<div gap="10">
     <img width="38" src="icons/HTML5.svg" />
     <img width="38" src="icons/CSS3.svg" />
     <img width="38" src="icons/Tailwind CSS.svg" />
