@@ -14,15 +14,25 @@ Sou estudante, busco sempre está aprendendo algo novo, adoro desafios...
 
 ## 🛠️ Tecnologias que Trabalho:
 
-<p align="start">
+<div>
     <img width="38" src="icons/HTML5.svg" />
-</p>
+    <img width="38" src="icons/CSS3.svg" />
+    <img width="38" src="icons/Tailwind CSS.svg" />
+    <img width="38" src="icons/JavaScript.svg" />
+    <img width="38" src="icons/TypeScript.svg" />
+    <img width="38" src="icons/React.svg" />
+    <img width="38" src="icons/Node.js.svg" />
+    <img width="38" src="icons/Fastify.svg" />
+    <img width="38" src="icons/PostgresSQL.svg" />
+    <img width="38" src="icons/Git.svg" />
+    <img width="38" src="icons/Figma.svg" />
+</div>
 
 ## 📈 Meu Progresso:
 
 <br>
   
-<table width:"100%">
+<table width="100%">
   <tr>
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=ismael-henrique-dev&hide_title=false&hide_rank=false&bg_color=ffffff00&show_icons=true&card_width=520&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=pt-br&hide_border=true" height="300" alt="stats graph"  />
