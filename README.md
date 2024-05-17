@@ -26,6 +26,7 @@ Sou estudante, busco sempre está aprendendo algo novo, adoro desafios...
     <img width="38" src="icons/PostgresSQL.svg" />
     <img width="38" src="icons/Git.svg" />
     <img width="38" src="icons/Figma.svg" />
+    <img height="30" src="https://fastify.dev/img/logos/fastify-white.svg" />
 </div>
 
 ## 📈 Meu Progresso:
