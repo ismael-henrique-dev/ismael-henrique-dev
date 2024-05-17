@@ -15,18 +15,10 @@ Sou estudante, busco sempre está aprendendo algo novo, adoro desafios...
 ## 🛠️ Tecnologias que Trabalho:
 
 <div gap="10">
-    <img width="38" src="icons/HTML5.svg" />
-    <img width="38" src="icons/CSS3.svg" />
-    <img width="38" src="icons/Tailwind CSS.svg" />
-    <img width="38" src="icons/JavaScript.svg" />
-    <img width="38" src="icons/TypeScript.svg" />
-    <img width="38" src="icons/React.svg" />
-    <img width="38" src="icons/Node.js.svg" />
-    <img width="38" src="icons/Fastify.svg" />
-    <img width="38" src="icons/PostgresSQL.svg" />
-    <img width="38" src="icons/Git.svg" />
-    <img width="38" src="icons/Figma.svg" />
-    <img height="30" src="https://fastify.dev/img/logos/fastify-white.svg" />
+    <p align="start">
+       <img height="40" src="https://skillicons.dev/icons?i=html,css,git,js,ts,tailwindcss,react,postgres,nodejs" />
+       <img height="35" src="https://fastify.dev/img/logos/fastify-white.svg" />
+    </p>
 </div>
 
 ## 📈 Meu Progresso:
