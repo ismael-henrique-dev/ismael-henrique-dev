@@ -5,7 +5,7 @@ Sou estudante, busco sempre está aprendendo algo novo, adoro desafios...
 ## 🌐 Minhas Redes Sociais:
 
 <div gap="10">
-<!--    <a href="https://www.instagram.com/ismael.henriqu?igsh=MXNqd3VoMDhiOWVhaA=="><img src="https://img.shields.io/badge/Instagram-%23333?style=for-the-badge&logo=instagram&logoColor=white" /></a> -->
+   <a href="https://www.instagram.com/ismael.henriqu?igsh=MXNqd3VoMDhiOWVhaA=="><img src="https://img.shields.io/badge/Instagram-%23333?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 <!--    <a href="https://twitter.com/Ismael_hen_dev"><img src="https://img.shields.io/badge/Twitter-%23333?style=for-the-badge&logo=x&logoColor=white" /></a> -->
    <a href="https://discord.com/users/1213443214514851844"><img src="https://img.shields.io/badge/Discord-%23333?style=for-the-badge&logo=discord&logoColor=white" /></a>
    <a href="#"><img src="https://img.shields.io/badge/LinkedIn-%23333?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
