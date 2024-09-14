@@ -16,7 +16,7 @@ Sou estudante, busco sempre está aprendendo algo novo, adoro desafios...
 
 <div gap="10">
     <p align="start">
-       <img height="40" src="https://skillicons.dev/icons?i=html,css,git,js,ts,tailwindcss,react,nodejs,express,postgres,docker,sqlite" />
+       <img height="40" src="https://skillicons.dev/icons?i=html,css,git,js,ts,tailwindcss,react,nodejs,express,docker,postgres,linux,sqlite,mysql" />
 <!--        <img height="35" src="https://fastify.dev/img/logos/fastify-white.svg" /> -->
     </p>
 </div>
