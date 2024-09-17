@@ -28,7 +28,7 @@ Sou estudante do 3º semestre do curso técnico integrado em Informática no IFC
 <table width="100%">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=ismael-henrique-dev&hide_title=false&hide_rank=false&bg_color=ffffff00&show_icons=true&card_width=520&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=pt-br&hide_border=true" height="300" alt="stats graph"  />
+      <img src="https://github-readme-stats.vercel.app/api?username=ismael-henrique-dev&hide_title=false&hide_rank=false&bg_color=ffffff00&show_icons=true&card_width=520&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=pt-br&hide_border=true" height="400" alt="stats graph"  />
     </td>
     <td>
       <picture>
