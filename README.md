@@ -1,6 +1,6 @@
 ## 🧑‍💻 Um Pouco Sobre Mim:
 
-Sou estudante, busco sempre está aprendendo algo novo, adoro desafios...
+Sou estudente do S3 do curso técnico integrado em informática do IFCE Campus Cedro. Estou estudando programação por volta de dois anos, é uma área que eu gosto muito e pretendo permanecer presente nela durante muito tempo. Meu objetivo no momento é buscar cada vez mais conhecimento na área e claro, melhorar as minhas habilidades cada vez mais.
 
 ## 🌐 Minhas Redes Sociais:
 
