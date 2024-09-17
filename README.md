@@ -28,12 +28,12 @@ Sou estudente do S3 do curso técnico integrado em informática do IFCE Campus C
 <table width="100%">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=ismael-henrique-dev&hide_title=false&hide_rank=false&bg_color=ffffff00&show_icons=true&card_width=520&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=pt-br&hide_border=true" height="700" alt="stats graph"  />
+      <img src="https://github-readme-stats.vercel.app/api?username=ismael-henrique-dev&hide_title=false&hide_rank=false&bg_color=ffffff00&show_icons=true&card_width=520&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=pt-br&hide_border=true" height="400" alt="stats graph"  />
     </td>
     <td>
       <picture>
          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs?username=ismael-henrique-dev&theme=react&bg_color=ffffff00&hide_border=true&no-frame=true&langs_count=6&locale=pt-br" />
-         <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs?username=ismael-henrique-dev&bg_color=ffffff00&hide_border=true&no-frame=true&langs_count=6&locale=pt-br&theme=react" alt="" align="center" width="100%" height="900"/>
+         <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs?username=ismael-henrique-dev&bg_color=ffffff00&hide_border=true&no-frame=true&langs_count=6&locale=pt-br&theme=react" alt="" align="center" width="600" height="400"/>
       </picture>
     </td>
   </tr>
