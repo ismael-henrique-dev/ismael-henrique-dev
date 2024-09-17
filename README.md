@@ -1,6 +1,6 @@
 ## 🧑‍💻 Um Pouco Sobre Mim:
 
-Sou estudente do S3 do curso técnico integrado em informática do IFCE Campus Cedro. Estou estudando programação por volta de dois anos, é uma área que eu gosto muito e pretendo permanecer presente nela durante muito tempo. Meu objetivo no momento é buscar cada vez mais conhecimento na área e claro, melhorar as minhas habilidades cada vez mais.
+Sou estudante do 3º semestre do curso técnico integrado em Informática no IFCE Campus Cedro. Estudo programação há cerca de dois anos, uma área pela qual tenho grande interesse e pretendo continuar atuando por muito tempo. Meu principal objetivo é adquirir cada vez mais conhecimento e aprimorar continuamente minhas habilidades na área.
 
 ## 🌐 Minhas Redes Sociais:
 
@@ -28,12 +28,12 @@ Sou estudente do S3 do curso técnico integrado em informática do IFCE Campus C
 <table width="100%">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=ismael-henrique-dev&hide_title=false&hide_rank=false&bg_color=ffffff00&show_icons=true&card_width=520&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=pt-br&hide_border=true" height="400" alt="stats graph"  />
+      <img src="https://github-readme-stats.vercel.app/api?username=ismael-henrique-dev&hide_title=false&hide_rank=false&bg_color=ffffff00&show_icons=true&card_width=520&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=pt-br&hide_border=true" height="300" alt="stats graph"  />
     </td>
     <td>
       <picture>
          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs?username=ismael-henrique-dev&theme=react&bg_color=ffffff00&hide_border=true&no-frame=true&langs_count=6&locale=pt-br" />
-         <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs?username=ismael-henrique-dev&bg_color=ffffff00&hide_border=true&no-frame=true&langs_count=6&locale=pt-br&theme=react" alt="" align="center" width="600" height="400"/>
+         <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs?username=ismael-henrique-dev&bg_color=ffffff00&hide_border=true&no-frame=true&langs_count=6&locale=pt-br&theme=react" alt="" align="center" width="600" height="300"/>
       </picture>
     </td>
   </tr>
