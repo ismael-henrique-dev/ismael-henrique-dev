@@ -1,13 +1,13 @@
 ## 🧑‍💻 Um Pouco Sobre Mim:
 
-Sou estudante do 3º semestre do curso técnico integrado em Informática no IFCE Campus Cedro. Estudo programação há cerca de dois anos, uma área pela qual tenho grande interesse e pretendo continuar atuando por muito tempo. Meu principal objetivo é adquirir cada vez mais conhecimento e aprimorar continuamente minhas habilidades na área.
+Sou estudante do 4º semestre do curso técnico integrado em Informática no IFCE Campus Cedro. Estudo programação há cerca de dois anos, uma área pela qual tenho grande interesse e pretendo continuar atuando por muito tempo. Meu principal objetivo é adquirir cada vez mais conhecimento e aprimorar continuamente minhas habilidades na área.
 
 ## 🌐 Minhas Redes Sociais:
 
 <div gap="10">
    <a href="https://www.instagram.com/ismael.henriqu?igsh=MXNqd3VoMDhiOWVhaA=="><img src="https://img.shields.io/badge/Instagram-%23333?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 <!--    <a href="https://twitter.com/Ismael_hen_dev"><img src="https://img.shields.io/badge/Twitter-%23333?style=for-the-badge&logo=x&logoColor=white" /></a> -->
-   <a href="https://discord.gg/nwSGHK5M"><img src="https://img.shields.io/badge/Discord-%23333?style=for-the-badge&logo=discord&logoColor=white" /></a>
+   <a href="https://discord.gg/JwuhBx4X"><img src="https://img.shields.io/badge/Discord-%23333?style=for-the-badge&logo=discord&logoColor=white" /></a>
    <a href="https://www.linkedin.com/in/ismael-henrique-4730b8329"><img src="https://img.shields.io/badge/LinkedIn-%23333?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
    <a href="mailto:ismael.henrique.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </div>
