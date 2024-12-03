@@ -5,10 +5,9 @@ Sou estudante do 4º semestre do curso técnico integrado em Informática no IFC
 ## 🌐 Minhas Redes Sociais:
 
 <div gap="10">
-   <a href="https://www.instagram.com/ismael.henriqu?igsh=MXNqd3VoMDhiOWVhaA=="><img src="https://img.shields.io/badge/Instagram-%23333?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 <!--    <a href="https://twitter.com/Ismael_hen_dev"><img src="https://img.shields.io/badge/Twitter-%23333?style=for-the-badge&logo=x&logoColor=white" /></a> -->
    <a href="https://discord.gg/JwuhBx4X"><img src="https://img.shields.io/badge/Discord-%23333?style=for-the-badge&logo=discord&logoColor=white" /></a>
-   <a href="https://www.linkedin.com/in/ismael-henrique-4730b8329"><img src="https://img.shields.io/badge/LinkedIn-%23333?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+   <a href="https://www.linkedin.com/in/ismael-henrique-4730b8329"><img src="https://img.shields.io/badge/LinkedIn-%23333?style=for-the-badge&logo=linkedin&logoColor=blue" /></a>
    <a href="mailto:ismael.henrique.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </div>
 
@@ -16,7 +15,7 @@ Sou estudante do 4º semestre do curso técnico integrado em Informática no IFC
 
 <div gap="10">
     <p align="start">
-       <img height="40" src="https://skillicons.dev/icons?i=html,css,git,js,ts,tailwindcss,react,nodejs,linux," />
+       <img height="40" src="https://skillicons.dev/icons?i=html,css,git,js,ts,tailwindcss,react,nextjs,nodejs,linux," />
 <!--        <img height="35" src="https://fastify.dev/img/logos/fastify-white.svg" /> -->
     </p>
 </div>
