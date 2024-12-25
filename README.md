@@ -24,6 +24,7 @@ Sou estudante do 4º semestre do curso técnico integrado em Informática no IFC
 
 <br>
   
+<!-- 
 <table width="100%">
   <tr>
     <td>
@@ -37,9 +38,32 @@ Sou estudante do 4º semestre do curso técnico integrado em Informática no IFC
     </td>
   </tr>
 </table>
+-->
+
 
 <br>
 
+<table  width="100%">
+  <tr>
+    <td width="60%" align="center">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ismael-henrique-dev&theme=react&bg_color=ffffff00&hide_border=true&show_icons=true&count_private=true&layout=compact&locale=pt-br"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=ismael-henrique-dev&bg_color=ffffff00&hide_border=true&show_icons=true&count_private=true&layout=compact&locale=pt-br" alt="" align="center" width="100%" />
+      </picture>
+      <br></br>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=ismael-henrique-dev&theme=react&background=ffffff00&hide_border=true&no-frame=true&locale=pt-br" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=ismael-henrique-dev&background=ffffff00&hide_border=true&no-frame=true&locale=pt-br" alt="" align="center" width="100%" />
+      </picture>
+    </td>
+    <td align="center">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs?username=ismael-henrique-dev&theme=react&bg_color=ffffff00&hide_border=true&no-frame=true&langs_count=7&locale=pt-br" />
+        <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs?username=ismael-henrique-dev&bg_color=ffffff00&hide_border=true&no-frame=true&langs_count=7&locale=pt-br" alt="" align="center"width="600" height="400"/>
+      </picture>
+    </td>
+  </tr>
+</table>
 
  
 
