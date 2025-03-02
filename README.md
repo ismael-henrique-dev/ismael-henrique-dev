@@ -1,6 +1,6 @@
 ## 🧑‍💻 Um Pouco Sobre Mim:
 
-Sou estudante do 4º semestre do curso técnico integrado em Informática no IFCE Campus Cedro. Estudo programação há cerca de dois anos, uma área pela qual tenho grande interesse e pretendo continuar atuando por muito tempo. Meu principal objetivo é adquirir cada vez mais conhecimento e aprimorar continuamente minhas habilidades na área.
+Sou desenvolvedor frontend e mobile com experiência em diversos tipos de projetos, utilizando tecnologias como Next.js, React.js, React Native e TypeScript. Meu principal objetivo é crescer continuamente como profissional, aprimorando minhas habilidades técnicas e ampliando meu conhecimento. Sou uma pessoa comprometida, dedicada e focada na entrega de resultados de alta qualidade. Valorizo o aprendizado contínuo e busco constantemente oportunidades que me permitam evoluir, me manter atualizado e contribuir de maneira significativa para os projetos nos quais estou envolvido.
 
 ## 🌐 Minhas Redes Sociais:
 
